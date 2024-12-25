@@ -1,0 +1,22 @@
+{
+  "name": "python-scrape-kit",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate a web scraper project structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydippatel83/ScrapeKit.git"
+  },
+  "keywords": [
+    "ScrapeKit"
+  ],
+  "author": "Jaydip Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydippatel83/ScrapeKit/issues"
+  },
+  "homepage": "https://github.com/jaydippatel83/ScrapeKit#readme"
+}
