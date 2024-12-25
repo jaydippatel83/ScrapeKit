@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A CLI tool to generate a web scraper project structure",
   "main": "index.js",
+  "bin": {
+    "python-scrape-kit": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/jaydippatel83/ScrapeKit.git"
   },
-  "keywords": [
-    "ScrapeKit"
-  ],
+  "keywords": ["scraper", "generator", "cli", "python"],
   "author": "Jaydip Patel",
   "license": "ISC",
   "bugs": {
