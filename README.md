@@ -31,6 +31,7 @@ python-scrape-kits my_scraper_project
 ```
 This will create a new project structure in the folder my_scraper_project with the following hierarchy:
 
+```bash
 my_scraper_project/
 │
 ├── configs/
@@ -55,3 +56,5 @@ my_scraper_project/
 ├── requirements.txt      # Required Python packages
 ├── .env                  # Environment variables
 └── README.md             # Project documentation
+
+```
