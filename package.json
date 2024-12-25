@@ -1,10 +1,10 @@
 {
-  "name": "python-scrape-kit",
+  "name": "python-scrape-kits",
   "version": "1.0.0",
   "description": "A CLI tool to generate a web scraper project structure",
   "main": "index.js",
   "bin": {
-    "python-scrape-kit": "./index.js"
+    "python-scrape-kits": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
